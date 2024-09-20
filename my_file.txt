@@ -1,0 +1,6 @@
+Hello, this is line 1.
+The number of students is 25.
+Good luck with your project!
+This is an appended line.
+Appending more data: 45.
+End of file operations.
